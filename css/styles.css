@@ -102,6 +102,10 @@ h1, h2, h3 {
     line-height: 2; /* interlineado*/
     text-align: center;
 }
+.servicio a:hover{
+    background-color: var(--primario);
+    color: var(--oscuro);
+}
 .servicio .iconos {
     /* background-color: var(--primario);*/
     height: 15rem;
